@@ -1,11 +1,5 @@
 # Project Horiseon
 
-## User Story
-
-
-## Acceptance Criteria
-
-
 ## Usage
 
 
