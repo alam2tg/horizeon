@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 30px;
+    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -30,7 +30,7 @@ body {
 }
 
 .services {
-    padding-top: 15px;
+    padding-top: 20px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -59,6 +59,7 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
+    padding: 0px 20px 0px 20px
 }
 
 p {
