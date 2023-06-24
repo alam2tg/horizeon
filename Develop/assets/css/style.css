@@ -2,7 +2,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    width: 100%
 }
 
 body {
@@ -14,6 +13,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    width: 100%;
 }
 
 .title {
@@ -29,7 +29,7 @@ body {
     color: #d9dcd6;
 }
 
-.header  {
+.services {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -45,7 +45,7 @@ body {
     display: inline-block;
 }
 
-.services .h3 .ul .li {
+.services {
     float: right
     display:inline-end;
 
