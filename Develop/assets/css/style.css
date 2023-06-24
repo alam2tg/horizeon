@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    width: 100%
 }
 
 body {
@@ -15,9 +16,13 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.title {
     display: inline-block;
     font-size: 48px;
+    padding-left: 20px;
+    text-align:left;
+
+    
 }
 
 .header h1 .seo {
@@ -33,18 +38,20 @@ body {
     display: inline-block;
 }
 
-.header h3 {
+.services {
     position: relative;
     text-align: right;
     list-style-type: none;
     display: inline-block;
 }
 
-.services {
+.services .h3 .ul .li {
     float: right
+    display:inline-end;
+
 }
 
-.header h3 div ul li {
+.services {
     position: relative;
     display: inline-block;
     margin-right: 25px;
